@@ -1,10 +1,12 @@
 body {
-    background: #161616;
+    background: #000000;
     margin: 0;
     height: 100dvh;
         display: grid;
         place-content: center center;
         text-align: center;
+
+        
 }
 
 .spinner{
